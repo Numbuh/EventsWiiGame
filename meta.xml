@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Pokemon Event Archive</name>
+  <coder>Homebrew Developer</coder>
+  <version>1.0</version>
+  <release_date>20251009</release_date>
+  <short_description>Pokemon Events Database</short_description>
+  <long_description>
+    A comprehensive archive of Pokemon event distributions
+    from Generation 1, 2, and 3 games.
+    
+    Navigate through different generations and explore
+    exclusive event Pokemon, items, and distributions
+    from the classic Pokemon games.
+    
+    Controls:
+    - Point with Wiimote
+    - A Button to select
+    - B Button to go back
+  </long_description>
+  <ahb_access/>
+</app>
+
